@@ -25,6 +25,12 @@ We used the following Google Maps locations to calculate distances:
 
 Our hippo only made it to six of the seven hills of Edinburgh (sorry Craiglockhart) due to certain _slide constraints_.
 
+---
+
+_Craiglockhart hill is split into two (easter and wester)...that's about all there is to say about it_
+
+---
+
 They took the following route:
 
 ### The Route
@@ -54,7 +60,19 @@ and _minimises_ the amount of plodding?
 
 ![table showing distances between each of the seven hills and the bayes centre](./table.jpg)
 
-## Is the runners route optimal?
+### _Proper Tourist_
+
+Our Hippo would also like to visit the following:
+
+1. Royal Yacht Britannia
+2. Crammond island
+3. Portobello beach
+4. Botanic Gardens
+
+Reckon they could get it all done in 1 day?
+should they extend their trip?
+
+### _Is the runners route optimal_?
 
 Seven hills runners take the following route, beginning and ending at the top of Calton hill.
 
