@@ -11,7 +11,41 @@ Further information [here](https://www.seven-hills.org.uk/) if any #fitness Hipp
 
 ## The Hippo's hoofprints
 
-...We've also gathered distances between each of the seven hills (as measured by Google Maps directions on foot).
+### Arthurs Seat
+
+Extinct volcano with a loch and some deer on it. Rumour has it there's a pair of otters around somewhere.
+
+### Blackford hill
+
+Home to the Royal Observatory, Edinburgh and once home to an ancient hill fort. Not that there's much to be seen of that. 
+
+### Braid hill
+
+Named after 12th Century sherrif of Edinburgh, Henri de Brad. Home to a hermitage designed by Robert Burn.
+
+### Calton hill
+
+Calton hill hosts a bunch of monuments. Including the National Memorial, an intended replica of the Parthenon that ran out of money and was never finished and the Nelson monument (also designed by Robert Burn). Both commemorating events from the Napoleonic wars. 
+
+### Castle Rock
+
+Edinburgh Castle sits atop the Castle Rock, some sort of [volcanic plug](https://en.wikipedia.org/wiki/Volcanic_plug). The outcrop is one of the oldest continually inhabited settlements in Scotland and the second most popular tourist attraction in the UK.
+
+### Corstophine hill
+
+Home to Edinburgh zoo, which used to have a couple of pandas.
+
+
+...Our hippo only made it to six of the seven hills of Edinburgh (sorry Craiglockhart) due to certain _slide constraints_.
+
+---
+### Craiglockhart hill 
+
+_Craiglockhart hill is split into two (easter and wester)...that's about all there is to say about it_
+
+---
+
+...We've gathered distances between each of the seven hills (as measured by Google Maps directions on foot).
 If anyone can be rumped, we've knocked up a couple of challenges using the data.
 
 ![graph showing distances between each of the seven hills](./graph.jpg)
@@ -26,13 +60,6 @@ We used the following Google Maps locations to calculate distances:
 6. Wester hill (Craiglockhart)
 7. Corstophine hill
 
-Our hippo only made it to six of the seven hills of Edinburgh (sorry Craiglockhart) due to certain _slide constraints_.
-
----
-
-_Craiglockhart hill is split into two (easter and wester)...that's about all there is to say about it_
-
----
 
 They took the following route:
 
