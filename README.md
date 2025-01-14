@@ -2,9 +2,12 @@
 
 ## Race & Challenge
 
-Each year, on a weekend in June, a gaggle of runners/masochists run a (roughly) 25KM tour of each of the seven hills in Edinburgh.
-The route they take is up to them. Last year's winner ran a time of 99 minutes.
-Further information [here](https://www.seven-hills.org.uk/) if any #fitness Hippo's fancy it.
+Each year, on a weekend in June, a gaggle of runners/masochists run a (roughly) 25KM tour of each of the seven hills in Edinburgh, with 2200 feet of ascent/descent.
+The route they take is up to them but they must hit each of the hills in a certain order. Starting and ending at Calton hill. 
+
+Last year's winner ran a time of 99 minutes. There's a _race_ race and a challenge.
+
+Further information [here](https://www.seven-hills.org.uk/) if any #fitness Hippo's fancy it!
 
 ## The Hippo's hoofprints
 
