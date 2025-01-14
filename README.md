@@ -39,7 +39,7 @@ Home to Edinburgh zoo, which used to have a couple of pandas.
 ...Our hippo only made it to six of the seven hills of Edinburgh (sorry Craiglockhart) due to certain _slide constraints_.
 
 ---
-### Craiglockhart hill 
+### _Craiglockhart hill_
 
 _Craiglockhart hill is split into two (easter and wester)...that's about all there is to say about it_
 
